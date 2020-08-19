@@ -34,10 +34,10 @@
 -->
 
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=kangggwei&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight" />
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=kangggwei&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=kangggwei&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight" />
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=kangggwei&hide=php&theme=tokyonight" />
 </a>
 
 [linkedin]: https://linkedin.com/in/kang-wei-ong-24a450177
