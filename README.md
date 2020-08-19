@@ -28,11 +28,11 @@
 
 ## :trophy: My Github Stats:
 
-<a href="https://github-readme-stats.vercel.app/api?username=kangggwei&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=kangggwei&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api?username=kangggwei&hide_title=true&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=kangggwei&hide_title=true&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kangggwei&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangggwei&hide=php&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kangggwei&hide_title=true&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangggwei&hide_title=true&theme=tokyonight" />
 </a>
 
 [linkedin]: https://linkedin.com/in/kang-wei-ong-24a450177
