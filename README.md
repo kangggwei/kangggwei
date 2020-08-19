@@ -15,20 +15,18 @@
 <hr />
 
 ## 🧰 Languages and Tools:
-<div align="center">
- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
- ![Anaconda](https://img.shields.io/badge/-Anaconda-black?style=flat-square&logo=anaconda)
- ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
- ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
- ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
- ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-</div>
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Anaconda](https://img.shields.io/badge/-Anaconda-black?style=flat-square&logo=anaconda)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 <hr />
 
 ## :trophy: My Github Stats:
