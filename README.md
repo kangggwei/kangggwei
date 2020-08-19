@@ -29,12 +29,7 @@
 
 ## :trophy: My Github Stats:
 
-
-![Kang Wei's Github Stats](https://github-readme-stats.vercel.app/api?username=kangwei&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangggwei&show_icons=true&theme=radical)](https://github.com/kangggwei/github-readme-stats)
-
-
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=kangggwei&count_private=true&show_icons=true&theme=tokyonight">
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=kangggwei&include_all_commits&count_private=true&show_icons=true&theme=tokyonight">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=kangggwei&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=kangggwei&theme=tokyonight">
